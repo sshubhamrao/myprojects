@@ -1,4 +1,5 @@
 Features:
+
 User Management: Stores user information, including login credentials, names, and contact details for secure access.
 Supplier Management: Records supplier details, including contact information, addresses, and registration dates.
 Product Inventory: Manages product information such as item codes, names, descriptions, brand names, unit costs, and stock levels.
